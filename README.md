@@ -4,3 +4,6 @@ Selenium project with test cases on Amazon.com Registration, Sign-in and Item Pu
 JUnit: 4.12.0.   
 Selenium: 2.45.0.   
 Eclipse: 4.17.0.   
+    
+     
+Midterm group project
